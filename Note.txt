@@ -1,0 +1,3 @@
+tambahan fitur:
+1. Checking password strength
+2. menggunakan cookie saat login ( disimpan selama 1 jam pada browser )
